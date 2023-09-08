@@ -10,7 +10,7 @@ const spotify = new Spotify({
 module.exports = {
     // BOT DETAILS
     token: process.env.TOKEN || " ", // your bot token
-    prefix: process.env.PREFIX || "$", // your bot prefix "for owner message command"
+    prefix: process.env.PREFIX || "&", // your bot prefix "for owner message command"
     color: process.env.EMBED_COLOR || "#ce0406", // your embeded hex color
     owner: process.env.OWNER_ID || "665165194850336778", // your bot Owners ID
     guildLogs: process.env.GUILD_LOGS || "958902667994878003", // your server join left logs Channel ID
