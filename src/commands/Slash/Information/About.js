@@ -47,7 +47,7 @@ module.exports = {
                 { name: `\`🎧\` • Players`, value: `\`\`\`Currently used by ${playingPlayers} servers\n\`\`\``, inline: true },
                 { name: `\`📈\` • Uptime`, value: `\`\`\`${ms(uptime)}\`\`\``, inline: true },
                 { name: `\`🏓\` • Ping`, value: `\`\`\`${Math.round(client.ws.ping)}ms\`\`\``, inline: true },
-                { name: `\`💠\` • Owners`, value: `\`\`\`adh319#9370\`\`\``, inline: true },
+                { name: `\`💠\` • Owners`, value: `\`\`\`Anonim\`\`\``, inline: true },
             ])
             .setImage(imageUrl)
             .setColor(client.color)
