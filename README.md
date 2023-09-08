@@ -1,24 +1,19 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lunox&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TOKYO&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> 
 </p>
 
 <p align="center"> 
-  <a href="https://ko-fi.com/adh319" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a>
+  <a href="https://ko-fi.com/adh319" target="_blank"> <img src="https://media.discordapp.net/attachments/571068093493805067/1149715926757945354/images_1_13.jpg"/> </a>
 </p>
 
 <p align="center"> 
-  <a href="https://discord.gg/xhTVzbS5NU" target="_blank"> <img src="https://discordapp.com/api/guilds/1056011738950156359/widget.png?style=banner2"/> </a>
+  <a href="https://discord.gg" target="_blank"> <img src="https://discordapp.com/api/guilds/1056011738950156359/widget.png?style=banner2"/> </a>
 </p>
-
-[![Version][version-shield]](version-url) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url]
-[![Watchers][watchers-shield]][watchers-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 # 📒 Table of Contents
 
 [Features](#-features) • [Screenshots](#%EF%B8%8F-screenshots) • [Requirements](#-requirements) • [Installation](#-installation) •
-[Configuration & Starting](#-configuration--starting) • [License](#-license) • [Credits](#-credits) • [Support Me](#-support-me) •
-[Special Thanks](#-special-thanks) • [Contributors](#-contributors)
+[Configuration & Starting](#-configuration--starting). 
 
 #
 
@@ -133,43 +128,8 @@ After installation & finished all needed configuration, you can start the bot by
 
 ## 🔐 Licensed
 
-Distributed under the `MIT License`. See [`LICENSE`](https://github.com/adh319/Lunox/blob/main/LICENSE) for more information.
+Distributed under the `MIT License`. See [`LICENSE`](ANonim) for more information.
 
-## 💝 Support Me
-
--   [Github Sponsor](https://github.com/sponsors/adh319)
--   [PayPal](https://paypal.me/LunoxBot)
--   [Ko-Fi](https://ko-fi.com/adh319)
+## THANKS
 
 Also make sure to give a **⭐** to this project if you like it 😉!
-
-## 🙏🏻 Special Thanks
-
--   [Parasop](https://github.com/parasop)
--   [Adivise](https://github.com/Adivise)
--   [RainyXeon](https://github.com/RainyXeon)
--   [Blacky](https://github.com/brblacky)
-
-## 👥 Contributors
-
-I really appreciated if you guys can contribute to this project. So don't hesitate to make a pull request if you guys has any suggestions,
-fixing bugs or want to add more features.
-
-<a href="https://github.com/adh319/Lunox/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=adh319/Lunox" />
-</a>
-
-[version-shield]: https://img.shields.io/github/package-json/v/adh319/Lunox?style=for-the-badge
-[contributors-shield]: https://img.shields.io/github/contributors/adh319/Lunox.svg?style=for-the-badge
-[contributors-url]: https://github.com/adh319/Lunox/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/adh319/Lunox.svg?style=for-the-badge
-[forks-url]: https://github.com/adh319/Lunox/network/members
-[watchers-shield]: https://img.shields.io/github/watchers/adh319/Lunox?style=for-the-badge
-[watchers-url]: https://github.com/adh319/Lunox
-[stars-shield]: https://img.shields.io/github/stars/adh319/Lunox.svg?style=for-the-badge
-[stars-url]: https://github.com/adh319/Lunox/stargazers
-[issues-shield]: https://img.shields.io/github/issues/adh319/Lunox.svg?style=for-the-badge
-[issues-url]: https://github.com/adh319/Lunox/issues
-[license-shield]: https://img.shields.io/github/license/adh319/Lunox.svg?style=for-the-badge
-[license-url]: https://github.com/adh319/Lunox/blob/main/LICENSE
-[spon-img]: https://media.discordapp.net/attachments/979364157541462066/982734017671606322/Vultr_Logo_Download_Vector.png
