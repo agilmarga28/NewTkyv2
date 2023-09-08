@@ -75,8 +75,8 @@
 ## 📝 Installation
 
 ```
-git clone --single-branch --branch master https://github.com/Enour-Dev/Lunox.git
-cd Lunox
+git clone --single-branch --branch master https://github.com/agilmarga28/NewTkyv2.git 
+cd NewTkyv2
 npm install
 ```
 
