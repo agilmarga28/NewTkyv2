@@ -3,17 +3,17 @@ const { customFilter } = require("poru");
 const { Spotify } = require("poru-spotify");
 
 const spotify = new Spotify({
-    clientID: process.env.SPOTIFY_ID || " ",
-    clientSecret: process.env.SPOTIFY_SECRET || " ",
+    clientID: "6c31645ffb004ab8b44d06f7b96d1b66",
+    clientSecret: "3618fdc0b4824cfd91a8d425dac32987",
 });
 
 module.exports = {
     // BOT DETAILS
     token: process.env.TOKEN || " ", // your bot token
-    prefix: process.env.PREFIX || "!", // your bot prefix "for owner message command"
-    color: process.env.EMBED_COLOR || " ", // your embeded hex color
-    owner: process.env.OWNER_ID || " ", // your bot Owners ID
-    guildLogs: process.env.GUILD_LOGS || " ", // your server join left logs Channel ID
+    prefix: process.env.PREFIX || "$", // your bot prefix "for owner message command"
+    color: process.env.EMBED_COLOR || "RANDOM", // your embeded hex color
+    owner: process.env.OWNER_ID || "665165194850336778", // your bot Owners ID
+    guildLogs: process.env.GUILD_LOGS || "958902667994878003", // your server join left logs Channel ID
     leaveTimeout: process.env.LEAVE_TIMEOUT || "60000", // set leave TimeOut when bot was alone 1000 = 1sec
     disablePremium: parseBoolean(process.env.DISABLE_PREMIUM || "false"), // disable premium command
 
@@ -28,19 +28,19 @@ module.exports = {
     },
     nodes: [
         {
-            name: process.env.NODE_NAME || "Lunox 01", // lavalink node name (anything you want)
-            host: process.env.NODE_HOST || "localhost", // lavalink host
-            port: parseInt(process.env.NODE_PORT || "2333"), //lavalink port
-            password: process.env.NODE_PASSWORD || "youshallnotpass", //lavalink pass/auth
+            name: process.env.NODE_NAME || "Tokyo 02", // lavalink node name (anything you want)
+            host: process.env.NODE_HOST || "lavalink.nextgenhosting.cloud", // lavalink host
+            port: parseInt(process.env.NODE_PORT || "1234"), //lavalink port
+            password: process.env.NODE_PASSWORD || "dsc.gg/nextgenhosting", //lavalink pass/auth
             secure: parseBoolean(process.env.NODE_SECURE || "false"), //lavalink secure "true/false"
         },
     ],
 
     // LINK DETAILS
-    mongoUri: process.env.MONGO_URI || " ", // your MongoDB Url
-    supportUrl: process.env.SUPPORT_URL || "", // your Support Server Link
-    inviteUrl: process.env.INVITE_URL || " ", // your Bot Invite Link
-    imageUrl: process.env.IMAGE_URL || " ", // your Bot Banner Imange Link to use on "help" & "about" command
+    mongoUri: process.env.MONGO_URI || "mongodb+srv://jarvis:op@cluster0.7tisvwv.mongodb.net/?retryWrites=true&w=majority", // your MongoDB Url
+    supportUrl: process.env.SUPPORT_URL || "https://discord.gg/anotherworldserver", // your Support Server Link
+    inviteUrl: process.env.INVITE_URL || "https://discord.com/api/oauth2/authorize?client_id=1148829424796569792&permissions=8&scope=bot", // your Bot Invite Link
+    imageUrl: process.env.IMAGE_URL || "https://media.discordapp.net/attachments/571068093493805067/1149715926757945354/images_1_13.jpg", // your Bot Banner Imange Link to use on "help" & "about" command
 };
 
 function parseBoolean(value) {
