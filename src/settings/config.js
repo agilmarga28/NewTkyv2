@@ -29,9 +29,9 @@ module.exports = {
     nodes: [
         {
             name: process.env.NODE_NAME || "Tokyo 02", // lavalink node name (anything you want)
-            host: process.env.NODE_HOST || "35.221.56.124", // lavalink host
-            port: parseInt(process.env.NODE_PORT || "4027"), //lavalink port
-            password: process.env.NODE_PASSWORD || "reedrousisgayy", //lavalink pass/auth
+            host: process.env.NODE_HOST || "lavalink.clxud.dev", // lavalink host
+            port: parseInt(process.env.NODE_PORT || "2333"), //lavalink port
+            password: process.env.NODE_PASSWORD || "youshallnotpass", //lavalink pass/auth
             secure: parseBoolean(process.env.NODE_SECURE || "false"), //lavalink secure "true/false"
         },
     ],
