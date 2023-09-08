@@ -11,7 +11,7 @@ module.exports = {
     // BOT DETAILS
     token: process.env.TOKEN || " ", // your bot token
     prefix: process.env.PREFIX || "$", // your bot prefix "for owner message command"
-    color: process.env.EMBED_COLOR || "RANDOM", // your embeded hex color
+    color: process.env.EMBED_COLOR || "#ce0406", // your embeded hex color
     owner: process.env.OWNER_ID || "665165194850336778", // your bot Owners ID
     guildLogs: process.env.GUILD_LOGS || "958902667994878003", // your server join left logs Channel ID
     leaveTimeout: process.env.LEAVE_TIMEOUT || "60000", // set leave TimeOut when bot was alone 1000 = 1sec
@@ -29,9 +29,9 @@ module.exports = {
     nodes: [
         {
             name: process.env.NODE_NAME || "Tokyo 02", // lavalink node name (anything you want)
-            host: process.env.NODE_HOST || "lavalink.nextgenhosting.cloud", // lavalink host
-            port: parseInt(process.env.NODE_PORT || "1234"), //lavalink port
-            password: process.env.NODE_PASSWORD || "dsc.gg/nextgenhosting", //lavalink pass/auth
+            host: process.env.NODE_HOST || "35.221.56.124", // lavalink host
+            port: parseInt(process.env.NODE_PORT || "4027"), //lavalink port
+            password: process.env.NODE_PASSWORD || "reedrousisgayy", //lavalink pass/auth
             secure: parseBoolean(process.env.NODE_SECURE || "false"), //lavalink secure "true/false"
         },
     ],
