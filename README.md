@@ -12,7 +12,7 @@
 
 # 📒 Table of Contents
 
-[Features](#-features) • [Screenshots](#%EF%B8%8F-screenshots) • [Requirements](#-requirements) • [Installation](#-installation) •
+[Features](#-features) • [Requirements](#-requirements) • [Installation](#-installation) •
 [Configuration & Starting](#-configuration--starting). 
 
 #
@@ -31,14 +31,6 @@
 -   ☑️ Clean UI
 -   ☑️ Easy to use
 -   ☑️ And Many More...!
-
-## 🖼️ Screenshots
-
-Here are some screenshots from my bot **(Screenshots may not look the same coz i had modify it on my bot)**.
-
-<p>
-<img src="https://cdn.discordapp.com/attachments/1014342568554811443/1093098769907732500/image.png"/>  <img src="https://cdn.discordapp.com/attachments/1014342568554811443/1093099116818612234/image.png"/>
-</p>
 
 ## 🎵 Supported Platforms
 
