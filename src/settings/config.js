@@ -29,9 +29,9 @@ module.exports = {
     nodes: [
         {
             name: "Lunox", // lavalink node name (anything you want)
-            host: "lavalink.hyembot.site", // lavalink host
-            port: "80", //lavalink port
-            password: "kendoxhyem", //lavalink pass/auth
+            host: "lavalink.invalid-studios.com", // lavalink host
+            port: "2333", //lavalink port
+            password: "invaliduser", //lavalink pass/auth
             secure: parseBoolean("false"), //lavalink secure "true/false"
         },
     ],
