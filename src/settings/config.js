@@ -37,7 +37,7 @@ module.exports = {
     ],
 
     // LINK DETAILS
-    mongoUri: process.env.MONGO_URI || "mongodb+srv://anonim28.cnpodlb.mongodb.net/" --apiVersion 1 --username agilmargautama", // your MongoDB Url
+    mongoUri: process.env.MONGO_URI || "mongodb+srv://agilmargautama:sudahada28H@anonim28sudahada28H.cnpodlb.mongodb.net/" --apiVersion 1 --username agilmargautama", // your MongoDB Url
     supportUrl: process.env.SUPPORT_URL || "https://discord.gg/anotherworldserver", // your Support Server Link
     inviteUrl: process.env.INVITE_URL || "https://discord.com/api/oauth2/authorize?client_id=1148829424796569792&permissions=8&scope=bot", // your Bot Invite Link
     imageUrl: process.env.IMAGE_URL || "https://media.discordapp.net/attachments/571068093493805067/1149715926757945354/images_1_13.jpg", // your Bot Banner Imange Link to use on "help" & "about" command
