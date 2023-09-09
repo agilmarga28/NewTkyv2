@@ -28,11 +28,11 @@ module.exports = {
     },
     nodes: [
         {
-            name: process.env.NODE_NAME || "Lunox", // lavalink node name (anything you want)
-            host: process.env.NODE_HOST || "lavalink.hyembot.site", // lavalink host
-            port: parseInt(process.env.NODE_PORT || "80"), //lavalink port
-            password: process.env.NODE_PASSWORD || "kendoxhyem", //lavalink pass/auth
-            secure: parseBoolean(process.env.NODE_SECURE || "false"), //lavalink secure "true/false"
+            name: "Lunox", // lavalink node name (anything you want)
+            host: "lavalink.hyembot.site", // lavalink host
+            port: "80", //lavalink port
+            password: "kendoxhyem", //lavalink pass/auth
+            secure: parseBoolean("false"), //lavalink secure "true/false"
         },
     ],
 
